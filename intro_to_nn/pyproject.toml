@@ -1,5 +1,5 @@
 [project]
-name = "1"
+name = "intro_to_nn_micrograd"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
